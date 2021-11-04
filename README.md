@@ -6,3 +6,14 @@ Es por ello que hoy veremos como Phillip Burgess, lady ada, James DeVito y Ruiz 
 ## Cómo hacer tu propia retro consola con raspberry pi?
 En el blog de los diseñadores se puede encontrar un [video](https://youtu.be/tm6n126Mp5E) no superior al minuto, donde te explican a como constriur tu propia retroconsola, lo único malo es que el video está en inglés, así que si no sabes mucho de éste idioma deberas guiarte únicamente de la imagen. 
 >"Gracias a la súper asequible Raspberry Pi y algún software inteligente, cualquiera puede recrear la clásica experiencia arcade en casa. Adafruit trae los controles de arcade genuinos "clicky", usted trae los archivos del juego y un poco de habilidad para crearlo."
+>¡Antes de comenzar a agregar un control de arcade, necesitará algunos juegos para jugar! En particular, vamos a hablar de Retro Gaming aquí.
+## Elegir un emulador
+Los juegos retro son uno de los usos más populares de la Raspberry Pi, y ahora hay una multitud de imágenes de tarjetas SD listas para usar empaquetadas con software emulador (aunque la mayoría requiere obtener sus propios archivos ROM). Los días de instalar emuladores onesy-twosey han quedado atrás; y Pi Store (una tienda de aplicaciones en línea para Raspberry Pi, recomendada en versiones anteriores de esta guía) se cerró en 2015.
+A continuación algunos packs de emuladores recomendados:
+1. [RetroPie](https://retropie.org.uk/)
+2. [PiPlay](http://piplay.org/)
+3. [Recalbox]()
+
+## Referencias
+*https://youtu.be/tm6n126Mp5E*
+*https://learn.adafruit.com/retro-gaming-with-raspberry-pi/raspberry-pi-setup*
